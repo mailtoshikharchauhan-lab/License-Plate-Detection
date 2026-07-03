@@ -1,0 +1,12 @@
+easyocr==1.7.2
+numpy
+opencv-python
+torch
+torchvision
+ultralytics
+matplotlib
+scipy
+scikit-image
+Pillow
+PyYAML
+requests
